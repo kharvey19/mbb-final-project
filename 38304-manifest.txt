@@ -1,0 +1,61 @@
+File Manifest for ICPSR 38304
+
+Desmarais, Sarah L., and Samantha Cacace. Military Health and Well-Being
+Project, United States, 2020. ICPSR38304-v2. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2025-10-13. http://doi.org/10.3886/ICPSR38304.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38304-descriptioncitation.pdf       -       -         -       2025-10-13  -
+
+    38304-related_literature.txt        -       -         -       daily       -
+
+    38304-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Military Health and Well-Being Project, United States, 2020
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38304-0001-Codebook-ICPSR.pdf       -       -         -       2022-02-09  f5ebb3c93877ecaf9a2e2f3f9c897d3e
+
+    38304-0001-Data.dta                 -       1,495     234     2022-02-09  39ad46eeb0365fd486c938ca248b2a27
+
+    38304-0001-Data.rda                 -       1,495     234     2022-02-09  60a735b698a989baa9820e395efc7b18
+
+    38304-0001-Data.sav                 -       1,495     234     2022-02-09  c9b657fcc298ac4994eef82dd4504afd
+
+    38304-0001-Data.stc                 -       1,495     234     2022-02-09  f1c2f6396f9f54cf954129d46e3e7768
+
+    38304-0001-Data.tsv                 -       1,495     234     2022-02-09  ede4a81d7af4ee0c2da66a113be07ed4
+
+    38304-0001-Data.txt                 706     1,495     234     2022-02-09  7742e0f1d0bc8a3d9607c3fbeec91612
+
+    38304-0001-Documentation-PI_Codebook.xlsx -       -         -       2022-02-09  80aaf3c003339a8ecaefcf367b6114ea
+
+    38304-0001-Documentation-README.pdf -       -         -       2025-10-13  e813a655555a01bf77915abbae55c0b2
+
+    38304-0001-Questionnaire.pdf        -       -         -       2022-02-09  2aa7d1b715864822b1c77fe198546766
+
+    38304-0001-Setup.dct                -       -         -       2022-02-09  d85c944ed68684b7711406daa771690b
+
+    38304-0001-Setup.do                 -       -         -       2022-02-09  5f57e1ab5bc081ab571b69188c39baf9
+
+    38304-0001-Setup.sas                -       -         -       2022-02-09  f273671f64ac582d0c4707d48d42ac2f
+
+    38304-0001-Setup.sps                -       -         -       2022-02-09  ed96cb6eace4afbc2a7d7535ae002b8c
+
+    38304-0001-Zipped_package.zip       -       -         -       2025-10-13  554d52df683c2cfe5f046a532a4ffb96
+
+
+Version History
+
+2025-10-13 Added syntax files and a README file.
