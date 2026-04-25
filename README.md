@@ -71,21 +71,21 @@ Reported reliability from the analysis: Cronbach's alpha ~= 0.821.
 
 ### Age Distribution
 
-![Age Distribution](docs/plots/age_distribution_notebook.png)
+![Age Distribution](https://raw.githubusercontent.com/kharvey19/mbb-final-project/main/plots/age_distribution_notebook.png)
 
 ### Well-Being vs Age
 
-![Well-Being vs Age](docs/plots/wellbeing_by_age_notebook.png)
+![Well-Being vs Age](https://raw.githubusercontent.com/kharvey19/mbb-final-project/main/plots/wellbeing_by_age_notebook.png)
 
 ### Well-Being vs Combat Exposure
 
-![Well-Being vs Combat Exposure](docs/plots/wellbeing_by_combat_notebook.png)
+![Well-Being vs Combat Exposure](https://raw.githubusercontent.com/kharvey19/mbb-final-project/main/plots/wellbeing_by_combat_notebook.png)
 
 ## Aside: Widowhood
 
-![Widowed-Only Age and Well-Being](docs/plots/widowed_only_age_wellbeing.png)
+![Widowed-Only Age and Well-Being](https://raw.githubusercontent.com/kharvey19/mbb-final-project/main/plots/widowed_only_age_wellbeing.png)
 
-![Widowhood Comparison](docs/plots/widowhood_comparison_age_wellbeing.png)
+![Widowhood Comparison](https://raw.githubusercontent.com/kharvey19/mbb-final-project/main/plots/widowhood_comparison_age_wellbeing.png)
 
 ## Reproduce
 
