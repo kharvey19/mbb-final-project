@@ -95,8 +95,3 @@ Reported reliability from the analysis: Cronbach's alpha ~= 0.821.
    - Full sample model
    - Under-50 model
    - Nested model comparison (`time_since_service_years` sensitivity)
-
-## Notes
-
-- This repository currently includes exploratory notebook work and presentation-oriented outputs.
-- The README is a concise synthesis of `analysis.ipynb` and the follow-up findings document.
